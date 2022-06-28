@@ -1,0 +1,6 @@
+what information is needed to be collected
+will the data contain PII
+will the submission of the form need to trigger another workflow IE email response or registration
+where is the current "Application for a Dog License" form hosted what is the app backend
+is there authentication to get to the form
+are the users internal or external 
